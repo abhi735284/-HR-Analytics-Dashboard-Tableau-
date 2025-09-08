@@ -100,5 +100,4 @@ The HR Analytics Dashboard reveals critical attrition patterns:
 
 ## 👨‍💻 Author  
 **Abhishek Kumar**  
-📧 [Your Email]  
-🌐 [LinkedIn Profile]  
+🌐 https://www.linkedin.com/in/abhishek-kumar-409ab91b4/ 
