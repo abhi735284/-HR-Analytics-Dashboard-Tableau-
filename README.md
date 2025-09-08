@@ -3,7 +3,7 @@ A Tableau dashboard providing insights into employee attrition by age, gender, d
 
 
 
-![Dashboard Preview](./Dashboard_HR_Analytics.png)
+![Dashboard Preview](./HR_Analytics_Dashboard.png)
 
 ## 🎯 Project Objective  
 The goal of this project is to analyze employee attrition across multiple dimensions such as **age, gender, department, education field, and job role**.  
@@ -94,7 +94,7 @@ The HR Analytics Dashboard reveals critical attrition patterns:
 ---
 
 ## 📌 Dashboard Link  
-🔗 [View Interactive Dashboard on Tableau Public](#) *(Add your Tableau Public link here)*  
+🔗 [View Interactive Dashboard on Tableau Public](#) *([](https://public.tableau.com/authoring/Book1_17572407444080/HRANALYTICSDASHBOARD#1))*  
 
 ---
 
