@@ -94,7 +94,7 @@ The HR Analytics Dashboard reveals critical attrition patterns:
 ---
 
 ## 📌 Dashboard Link  
-🔗 [View Interactive Dashboard on Tableau Public](#) *([Add your Tableau Public link here](https://public.tableau.com/authoring/Book1_17572407444080/HRANALYTICSDASHBOARD#1))*  
+🔗 [View Interactive Dashboard on Tableau Public](#) *([HR_ANALYTICS_DASHBOARD](https://public.tableau.com/authoring/Book1_17572407444080/HRANALYTICSDASHBOARD#1))*  
 
 ---
 
